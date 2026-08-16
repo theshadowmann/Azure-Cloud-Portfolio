@@ -4,6 +4,9 @@
 This project demonstrates secure cloud storage and hybrid file sharing using Azure Blob Storage and Azure Files.  
 It simulates a real-world scenario where a business hosts public website assets while maintaining private internal file access.
 
+## Architecture Diagram
+<img width="1026" height="682" alt="Azure Lab Diagram 2" src="https://github.com/user-attachments/assets/1f91cf42-2432-4197-b1ea-3452c84a270f" />
+
 **Diagram components:**
 - Storage Account (LRS or GRS)
 - $web container for static site hosting
