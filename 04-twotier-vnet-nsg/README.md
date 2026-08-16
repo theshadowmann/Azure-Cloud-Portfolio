@@ -3,6 +3,9 @@
 ## Overview
 This project builds a secure two-tier network topology separating public web servers from private database servers using VNets and NSGs.
 
+## Architecture Diagram
+<img width="1027" height="672" alt="Azure Lab Diagram 4" src="https://github.com/user-attachments/assets/8a787134-20ad-4c82-a0e2-7d957e6035fa" />
+
 **Diagram components:**
 - Virtual Network (10.0.0.0/16)
 - FrontendSubnet (10.0.1.0/24)
