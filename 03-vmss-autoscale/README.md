@@ -3,7 +3,7 @@
 ## Overview
 This project implements a scalable web application using Azure Virtual Machine Scale Sets (VMSS) with automated scaling rules based on CPU utilization.
 
-##Architecture Diagram
+## Architecture Diagram
 <img width="1042" height="692" alt="Azure lab 3" src="https://github.com/user-attachments/assets/323616f7-ab00-4ba1-a362-85b06bd443ba" />
 
 **Diagram components:**
