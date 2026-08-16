@@ -3,6 +3,9 @@
 ## Overview
 This project sets up centralized monitoring and alerting using Azure Monitor, Log Analytics, and Kusto Query Language (KQL).
 
+## Architecture Diagram
+<img width="1042" height="692" alt="Azure lab 3" src="https://github.com/user-attachments/assets/b888b279-db85-41cb-8780-35a466605240" />
+
 **Diagram components:**
 - Log Analytics Workspace
 - Azure Monitor Agent
