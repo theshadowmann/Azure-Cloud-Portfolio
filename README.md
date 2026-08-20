@@ -50,5 +50,3 @@ This repo is built to demonstrate practical Azure knowledge to employers, recrui
 - Evaluate documentation clarity  
 - Validate hands‑on cloud experience 
 ---
-
-If you want, I can also create a **GitHub profile README** (the one that appears on your GitHub homepage), which makes your 
