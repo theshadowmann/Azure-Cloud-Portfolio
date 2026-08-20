@@ -8,8 +8,7 @@ Here’s your **Project 1 README.md**, written in the same structured, profess
 This project demonstrates Azure Governance and Role‑Based Access Control (RBAC) by organizing resources under a subscription and applying policies, locks, and role assignments to enforce secure access management.
 
 ## Architecture Diagram
-<img width="1532" height="720" alt="Azure Lab Diagram 1" src="https://github.com/user-attachments/assets/f2e1e309-9176-4954-ad47-4a6f4f86ef91" />
-
+<img width="1067" height="707" alt="image" src="https://github.com/user-attachments/assets/84581765-cc09-4738-aa54-7077b6807b8d" />
 
 **Diagram components:**
 - Subscription  
