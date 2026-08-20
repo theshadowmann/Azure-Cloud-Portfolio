@@ -1,4 +1,4 @@
-# Azure Cloud Architecture Portfolio
+# Azure Cloud Portfolio
 
 ## Overview
 This repository showcases a collection of hands‑on Azure architecture projects designed to demonstrate real‑world cloud engineering skills. Each project includes a professionally designed architecture diagram and a detailed README explaining the purpose, services used, implementation steps, best practices, and interview‑ready talking points.
